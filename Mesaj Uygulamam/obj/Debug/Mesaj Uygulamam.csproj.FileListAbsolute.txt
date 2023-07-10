@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\bin\Debug\Mesaj Uygulamam.exe.config
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\bin\Debug\Mesaj Uygulamam.exe
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\bin\Debug\Mesaj Uygulamam.pdb
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj Uygulamam.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj Uygulamam.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj_Uygulamam.Form1.resources
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj_Uygulamam.Properties.Resources.resources
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj Uygulamam.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj Uygulamam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj Uygulamam.exe
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj Uygulamam.pdb
+C:\Users\PC\Desktop\C# Projelerim\Mesaj Uygulamam\Mesaj Uygulamam\obj\Debug\Mesaj_Uygulamam.Form2.resources
