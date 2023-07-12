@@ -22,10 +22,7 @@ namespace Mesaj_Uygulamam
             InitializeComponent();
         }
 
-
         public string kullanıcıadim;
-
-    
         private void Form2_Load(object sender, EventArgs e)
         {
             panel2.Visible = true;
@@ -46,50 +43,23 @@ namespace Mesaj_Uygulamam
             }
             dbbağlanti.Close();
 
-          
-
-      
-            
 
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label9.Text = "BİLGİLERİM";
-
-            if (button2.Text == label9.Text)
-            {
-                panel5.Visible = false;
-                panel4.Visible = false;
-                panel2.Visible = true;
-            }
-           
-
-          
-
-
-
-
-
+            panel4.Visible = false;
+            panel2.Visible = true;
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-          
-
-
-            label9.Text = "KULLANICILAR";
-
-            if (button3.Text == label9.Text)
-            {
-              
-                panel5.Visible = false;
-                panel4.Visible = true;
-            }
+            panel4.Visible = true;
+            
          
-
-
+          
         }
 
         private void panel4_Paint(object sender, PaintEventArgs e)
@@ -118,20 +88,6 @@ namespace Mesaj_Uygulamam
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             label8.Text = dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            label9.Text = "MESAJ GÖNDER";
-
-            if (button1.Text == label9.Text)
-            {
-               
-                    panel5.Visible = true;
-               // panel2.Visible = false;
-            }
-           
-           
         }
     }
 }
